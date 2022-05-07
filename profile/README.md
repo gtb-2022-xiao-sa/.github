@@ -10,5 +10,8 @@
 
 ### About members
 
-I'm Xiao Sa. I like sports, programming, reading, photography etc.
-![me](/assets/me.jpeg)
+I'm **Xiao Sa**. I like sports, programming, reading, photography etc.
+
+PS: This is my selfie. 
+
+<img src="assets/me.jpeg"  width="30%" alt="me"/>
